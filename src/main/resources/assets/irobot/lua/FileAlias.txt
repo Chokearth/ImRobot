@@ -1,0 +1,9 @@
+
+bios.lua
+FileAlias.txt
+rom\apis\objects.lua
+rom\apis\player.lua
+rom\apis\specialBlocks.lua
+rom\programs\cd.lua
+rom\programs\ls.lua
+rom\programs\run.lua
