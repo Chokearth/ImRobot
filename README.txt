@@ -1,4 +1,4 @@
-This is a minecraft mod which allows you to code yourself like in computercraft. This mod is not finished and is no longer developed.
+This is a minecraft 1.14.3 mod which allows you to code yourself like in computercraft. This mod is not finished and is no longer developed.
 
 You are free to reuse the code.
 
